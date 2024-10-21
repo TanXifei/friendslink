@@ -3,7 +3,7 @@
 [![Version](https://img.shields.io/badge/version-0.0.1-blue.svg)](https://github.com/tu_usuario/tu_repositorio)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-![Portada](/public/img/portada.png)
+![Portada](https://astro.build/_image?href=https%3A%2F%2Fstorage.googleapis.com%2Fdev-portal-bucket%2Fauu155b0x6hbm6a8i0vfs8524hfbhtugiy04j4.webp&w=1600&h=900&f=webp)
 #### Description
 
 Welcome to Share Your Links! This project is powered by Astro and CSS magic. If you're looking to create a sleek and customizable page to showcase all your important links, you're in the right place!
