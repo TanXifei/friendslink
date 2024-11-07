@@ -45,21 +45,11 @@ const socialLinks = [
 
 const userLinks = [
     {
-        title: "Portfolio",
-        link:"https://itssofi.dev/",
-        icon:"ant-design:code-filled"
+        title: "潇然工作室丨潇洒自然",
+        link:"https://www.xrgzs.top/",
+        icon:"fa6-brands:dog"
     },
-    {
-        title: "Sucríbete a mi canal",
-        link:"https://www.youtube.com/channel/UC36_js-krsAHAEAWpEDhHtw",
-        icon:"mingcute:youtube-fill"
 
-    },
-    {
-        title: "Únete a Discord",
-        link:"https://discord.com/invite/wjERezH2",
-        icon:"ic:outline-discord"
-    },
 ]
 
 
