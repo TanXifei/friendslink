@@ -14,12 +14,12 @@ const socialLinks = [
   {
     socialName: "博客",
     socialUl: "https://tanxifei.top/",
-    socialIcon: "fad fa-browser",
+    socialIcon: "fa6-brands:window-maximize",
   },
   {
     socialName: "下载站",
     socialUl: "https://dl.tanxifei.top/",
-    socialIcon: "fas fa-download",
+    socialIcon: "fa-download",
   }
   {
     socialName: "抖音",
