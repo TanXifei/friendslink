@@ -14,7 +14,7 @@ const socialLinks = [
   {
     socialName: "博客",
     socialUl: "https://tanxifei.top/",
-    socialIcon: "mingcute:web",
+    socialIcon: "fa-window-maximize",
   },
   {
     socialName: "下载站",
@@ -37,9 +37,9 @@ const socialLinks = [
     socialIcon: "fa6-brands:bilibili",
   },
   {
-    socialName: "Whatsapp",
+    socialName: "谭汐霏の电梯制造所(交流群)",
     socialUl: "#",
-    socialIcon: "mingcute:whatsapp-fill",
+    socialIcon: "fa6-brands:qq",
   },
 ];
 
