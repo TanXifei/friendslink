@@ -22,9 +22,9 @@ const socialLinks = [
     socialIcon: "fa6-brands:github-alt",
   },
   {
-    socialName: "Instagram",
-    socialUl: "#",
-    socialIcon: "ri:instagram-fill",
+    socialName: "抖音",
+    socialUl: "https://www.douyin.com/user/MS4wLjABAAAAGLu1hTQgOD6_kUkiYgYY21HLfhMgiv8aYVjsi5kqlDwHnmwCJfeaaoFZOqvk_O3g",
+    socialIcon: "fa6-brands:tiktok",
   },
   {
     socialName: "X",
