@@ -14,7 +14,7 @@ const socialLinks = [
   {
     socialName: "博客",
     socialUl: "https://tanxifei.top/",
-    socialIcon: "mingcute:web_line",
+    socialIcon: "mingcute:web",
   },
   {
     socialName: "下载站",
