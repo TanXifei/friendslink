@@ -20,7 +20,7 @@ const socialLinks = [
     socialName: "下载站",
     socialUl: "https://dl.tanxifei.top/",
     socialIcon: "fa-download",
-  }
+  },
   {
     socialName: "抖音",
     socialUl: "https://www.douyin.com/user/MS4wLjABAAAAGLu1hTQgOD6_kUkiYgYY21HLfhMgiv8aYVjsi5kqlDwHnmwCJfeaaoFZOqvk_O3g",
