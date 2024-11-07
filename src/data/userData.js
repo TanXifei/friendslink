@@ -47,7 +47,7 @@ const userLinks = [
     {
         title: "潇然工作室丨潇洒自然",
         link:"https://www.xrgzs.top/",
-        icon:"fa-dog"
+        icon:"https://pic2.ziyuan.wang/user/tanxifei/2024/11/J7WwtK~2_a6dad9352d7c3.png"
     },
 
 ]
