@@ -14,7 +14,7 @@ const socialLinks = [
   {
     socialName: "博客",
     socialUl: "https://tanxifei.top/",
-    socialIcon: "fa-window-maximize",
+    socialIcon: "mingcute:web_line",
   },
   {
     socialName: "下载站",
@@ -27,9 +27,14 @@ const socialLinks = [
     socialIcon: "fa6-brands:tiktok",
   },
   {
-    socialName: "X",
-    socialUl: "#",
-    socialIcon: "prime:twitter",
+    socialName: "嗜九_夜渊唤魂者",
+    socialUl: "https://b23.tv/0Qsy4rG",
+    socialIcon: "fa6-brands:bilibili",
+  },
+  {
+    socialName: "谭汐霏_Faye·T",
+    socialUl: "https://b23.tv/Y1ONlV9",
+    socialIcon: "fa6-brands:bilibili",
   },
   {
     socialName: "Whatsapp",
