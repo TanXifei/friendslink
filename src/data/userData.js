@@ -1,9 +1,9 @@
 const userData = [
   {
-    userName: "Sofia Osorio",
-    userDesc: "Web Developer",
-    userPic: "https://github.com/SofiDevO.png",
-    userPicDark: "/img/pedro_raccon.gif",
+    userName: "谭汐霏 TanXifei",
+    userDesc: "高一牲",
+    userPic: "https://pic2.ziyuan.wang/user/tanxifei/2024/07/TanXifei_53acc14e4df9e.jpg",
+    userPicDark: "https://pic2.ziyuan.wang/user/tanxifei/2024/07/TanXifei_53acc14e4df9e.jpg",
   },
 ];
 
