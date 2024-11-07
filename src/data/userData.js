@@ -47,7 +47,7 @@ const userLinks = [
     {
         title: "潇然工作室丨潇洒自然",
         link:"https://www.xrgzs.top/",
-        icon:"fa6-brands:dog"
+        icon:"fa-dog"
     },
 
 ]
