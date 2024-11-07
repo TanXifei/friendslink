@@ -12,14 +12,14 @@ const userData = [
 
 const socialLinks = [
   {
-    socialName: "LinkedIn",
-    socialUl: "#",
-    socialIcon: "mingcute:linkedin-fill",
+    socialName: "博客",
+    socialUl: "https://tanxifei.top/",
+    socialIcon: "fa6-brands:browser",
   },
   {
-    socialName: "GitHub",
-    socialUl: "https://github.com/SofiDevO/allmylinks",
-    socialIcon: "fa6-brands:github-alt",
+    socialName: "下载站",
+    socialUl: "https://dl.tanxifei.top/",
+    socialIcon: "fa6-brands:download",
   },
   {
     socialName: "抖音",
